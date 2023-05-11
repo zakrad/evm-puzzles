@@ -1,5 +1,4 @@
 # EVM puzzles
-////0x6080604052348015600f57600080fd5b50600180601d6000396000f3fe
 A collection of EVM puzzles. Each puzzle consists on sending a successful transaction to a contract. The bytecode of the contract is provided, and you need to fill the transaction data that won't revert the execution.
 
 ## How to play
